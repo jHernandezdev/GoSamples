@@ -1,0 +1,5 @@
+module sample2/main
+
+go 1.16
+
+require rsc.io/quote v1.5.2
